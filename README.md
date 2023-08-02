@@ -4,19 +4,26 @@ This project is a music genre classification model that aims to predict the genr
 
 ## Table of Contents
 1. [Project Description](#project-description)
-2. [Dataset](#dataset)
-3. [Code](#code)
-4. [Frontend](#frontend)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgments](#acknowledgments)
-10. [Documentation](#documentation)
+2. [Project Demo](#demo)
+3. [Dataset](#dataset)
+4. [Code](#code)
+5. [Frontend](#frontend)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Acknowledgments](#acknowledgments)
+11. [Documentation](#documentation)
 
 ## Project Description
 
 The goal of this project is to create a music genre classification model that can identify the genre of a given music clip accurately. The model is built using a combination of machine learning and deep learning techniques, specifically an Artificial Neural Network (ANN) and a Convolutional Neural Network (CNN).
+
+## Project Demo
+![demov](demo.mp4)
+### frontend
+![f](f.png)
+![f2](f2.png)
 
 ## Dataset
 
