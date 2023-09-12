@@ -1,4 +1,4 @@
-# Music Genre Classification using Neural Networks
+# Music Mestro
 
 This project is a music genre classification model that aims to predict the genre of a given music clip using deep learning techniques. The model is trained on the GTZAN dataset, which contains various music genres.
 
